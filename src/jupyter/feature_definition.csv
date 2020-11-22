@@ -1,0 +1,10 @@
+NazwaFolderu;NazwaCechy;NazwaCechyKlaudii
+NumberOfUserPosts;number_of_posts;posts number 
+NumberOfCommentsToOtherUsers;number_of_comments;written comments number 
+PostActivityTime;posts_activity_time;posts activity time 
+FrequencyOfPosts;frequency_of_posts_avg;posts freq avg
+FrequencyOfPosts;frequency_of_posts_stddev;posts freq stddev
+FrequencyOfPosts;frequency_of_posts_median;posts freq median
+FrequencyOfPosts;frequency_of_posts_q3;posts freq q3
+FrequencyOfPosts;frequency_of_posts_max;posts freq max
+FrequencyOfPosts;frequency_of_posts_min;posts freq min
